@@ -1,0 +1,19 @@
+{
+	"name": "mongo-add-id",
+	"version": "0.0.1",
+	"description": "Add field 'id' in mongoose schemas.",
+	"author": "Evgenii Korolev <aksyline@gmail.com>",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ekorolev/mongo-add-id"
+	},
+	"bugs": {
+		"url": "https://github.com/ekorolev/mongo-add-id/issues"
+	},
+	"keywords": [
+		"mongodb",
+		"mongoose"
+	],
+	"license": "MIT"
+}
