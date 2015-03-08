@@ -3,7 +3,7 @@ Add property "id" in mongoose model.
 
 # Using
 
-```
+```JavaScript
 	var mongoose = require('mongoose').connect('mongodb://localhost/test');
 	var addId = require('mongo-add-id');
 
